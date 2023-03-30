@@ -12,6 +12,7 @@ public class Test {
     public static void run(){
         assertEquals(0, 0);
         assertEquals(1, 0);
+        assertEquals(1, 1);
     }
 
     public static void main(String[] args) {
